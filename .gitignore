@@ -1,3 +1,7 @@
 .venv
 .env
 scraper/scraper.log
+struct.html
+__init__.py
+
+__pycache__/
